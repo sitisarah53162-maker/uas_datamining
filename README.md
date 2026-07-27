@@ -6,7 +6,7 @@
 **Dosen Pengampu:** Teuku Rizky Noviandy, S.Kom., M.Kom.  
 
 🔗 **Link Repositori GitHub:** [https://github.com/sitisarah53162-maker/uas_datamining](https://github.com/sitisarah53162-maker/uas_datamining)  
-🌐 **Link Aplikasi Live (Streamlit):** [https://uasdatamining-sitisarah.streamlit.app](https://uasdatamining-sitisarah.streamlit.app) *(Ganti dengan link Streamlit Cloud kamu jika berbeda)*
+🌐 **Link Aplikasi Live (Streamlit):** [https://uasdatamining-sitisarah.streamlit.app](https://uasdatamining-sitisarah.streamlit.app) 
 
 ---
 
